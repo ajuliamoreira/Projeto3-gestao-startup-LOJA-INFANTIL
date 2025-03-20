@@ -1,4 +1,4 @@
-# Projeto-gest-o-startup-III-LOJA-INFANTIL-
+# Projeto-gestao-startup-III-LOJA-INFANTIL-
 PROJETO GESTÃO STARTUP III » KIDS STORE - LOJA INFANTIL
 
 Este projeto é uma loja infantil, cujo possui alguns âmbitos a serem visualizados: 
